@@ -1,0 +1,75 @@
+2024-07-17 22:36:00,204 [INFO ]  user ia able to see the element on DOM with xpath //a[contains(.,'Sign up')]
+2024-07-17 22:36:00,813 [INFO ]  user is able to  click on xpath //a[contains(.,'Sign up')] 
+2024-07-17 22:36:02,036 [INFO ]  user is able to enter text.txt in xpath //input[@id='sign-username'] 
+2024-07-17 22:36:02,743 [INFO ]  user is able to enter text.txt in xpath //input[@id='sign-password'] 
+2024-07-17 22:36:03,376 [INFO ]  user is able to  click on xpath //button[normalize-space()='Sign up'] 
+2024-07-17 22:36:06,390 [INFO ]  user is able to get text.txt This user already exist. from alert
+2024-07-17 22:36:08,401 [INFO ]  user is able to get text.txt This user already exist. from alert
+2024-07-17 22:36:08,403 [INFO ]  user is abe to verify text.txt This user already exist. form alert
+2024-07-17 22:36:08,408 [INFO ]  User is able to accept alert popup
+2024-07-17 22:36:19,232 [INFO ]  user ia able to see the element on DOM with xpath //a[contains(.,'Sign up')]
+2024-07-17 22:36:19,886 [INFO ]  user is able to  click on xpath //a[contains(.,'Sign up')] 
+2024-07-17 22:36:21,119 [INFO ]  user is able to enter text.txt in xpath //input[@id='sign-username'] 
+2024-07-17 22:36:21,823 [INFO ]  user is able to enter text.txt in xpath //input[@id='sign-password'] 
+2024-07-17 22:36:22,440 [INFO ]  user is able to  click on xpath //button[normalize-space()='Sign up'] 
+2024-07-17 22:36:25,461 [INFO ]  user is able to get text.txt Sign up successful. from alert
+2024-07-17 22:36:25,464 [INFO ]  user is abe to verify text.txt Sign up successful. form alert
+2024-07-17 22:36:25,469 [INFO ]  User is able to accept alert popup
+2024-07-17 22:36:26,255 [INFO ]  user ia able to see the element on DOM with xpath //a[contains(.,'Log in')]
+2024-07-17 22:36:27,091 [INFO ]  user is able to  click on xpath //a[contains(.,'Log in')] 
+2024-07-17 22:36:28,396 [INFO ]  user is able to enter text.txt in xpath //input[@id='loginusername'] 
+2024-07-17 22:36:29,114 [INFO ]  user is able to enter text.txt in xpath //input[@id='loginpassword'] 
+2024-07-17 22:36:29,712 [INFO ]  user is able to  click on xpath //button[normalize-space()='Log in'] 
+2024-07-17 22:36:32,728 [INFO ]  user is able to get text.txt Wrong password. from alert
+2024-07-17 22:36:32,728 [INFO ]  user is abe to verify text.txt Wrong password. form alert
+2024-07-17 22:36:32,734 [INFO ]  User is able to accept alert popup
+2024-07-17 22:36:33,337 [INFO ]  user is able to  click on xpath //div[@id='logInModal']//button[@type='button'][normalize-space()='Close'] 
+2024-07-17 22:36:33,910 [INFO ]  user ia able to see the element on DOM with xpath //a[contains(.,'Log in')]
+2024-07-17 22:36:34,524 [INFO ]  user is able to  click on xpath //a[contains(.,'Log in')] 
+2024-07-17 22:36:35,811 [INFO ]  user is able to enter text.txt in xpath //input[@id='loginusername'] 
+2024-07-17 22:36:36,510 [INFO ]  user is able to enter text.txt in xpath //input[@id='loginpassword'] 
+2024-07-17 22:36:37,099 [INFO ]  user is able to  click on xpath //button[normalize-space()='Log in'] 
+2024-07-17 22:36:47,782 [INFO ]  user ia able to see the element on DOM with xpath //a[contains(.,'test_userxru')]
+2024-07-17 22:36:48,424 [INFO ]  user is able to  click on xpath //a[contains(.,'Phones')] 
+2024-07-17 22:36:51,221 [INFO ]  user ia able to see the element on DOM with xpath //a[contains(.,'Home')]
+2024-07-17 22:36:52,751 [INFO ]  user is able to  click on xpath //a[contains(.,'Home')] 
+2024-07-17 22:36:53,087 [INFO ]  user is able to move to element having xpath //p[contains(.,'Copyright © Product Store 2017')]
+2024-07-17 22:36:53,691 [INFO ]  user is able to  click on xpath //button[@id='next2'] 
+2024-07-17 22:36:56,728 [INFO ]  user is able to get text.txt from xpath //div[@id='tbodyid']/div[last()]/div/div/h4/a
+2024-07-17 22:36:58,021 [INFO ]  user is able to  click on xpath //div[@id='tbodyid']/div[last()]/div/div/h4/a 
+2024-07-17 22:36:59,371 [INFO ]  user is able to  click on xpath //a[normalize-space()='Add to cart'] 
+2024-07-17 22:37:02,372 [INFO ]  user is able to get text.txt Product added. from alert
+2024-07-17 22:37:02,383 [INFO ]  User is able to accept alert popup
+2024-07-17 22:37:02,932 [INFO ]  user ia able to see the element on DOM with xpath //a[contains(.,'Cart')]
+2024-07-17 22:37:04,556 [INFO ]  user is able to  click on xpath //a[contains(.,'Cart')] 
+2024-07-17 22:37:08,121 [INFO ]  user ia able to see the element on DOM with xpath //tbody[@id='tbodyid']/tr/td[contains(.,'MacBook Pro')]
+2024-07-17 22:37:08,715 [INFO ]  user is able to  click on xpath //button[normalize-space()='Place Order'] 
+2024-07-17 22:37:10,005 [INFO ]  user is able to enter text.txt in xpath //input[@id='name'] 
+2024-07-17 22:37:10,733 [INFO ]  user is able to enter text.txt in xpath //input[@id='country'] 
+2024-07-17 22:37:11,475 [INFO ]  user is able to enter text.txt in xpath //input[@id='city'] 
+2024-07-17 22:37:12,209 [INFO ]  user is able to enter text.txt in xpath //input[@id='card'] 
+2024-07-17 22:37:12,943 [INFO ]  user is able to enter text.txt in xpath //input[@id='month'] 
+2024-07-17 22:37:13,661 [INFO ]  user is able to enter text.txt in xpath //input[@id='year'] 
+2024-07-17 22:37:14,310 [INFO ]  user is able to  click on xpath //button[normalize-space()='Purchase'] 
+2024-07-17 22:37:14,881 [INFO ]  user ia able to see the element on DOM with xpath //h2[contains(.,'Thank you for your purchase')]
+2024-07-17 22:37:16,730 [INFO ]  user is able to  click on xpath //button[normalize-space()='OK'] 
+2024-07-17 22:37:17,306 [INFO ]  user ia able to see the element on DOM with xpath //a[contains(.,'Cart')]
+2024-07-17 22:37:18,721 [INFO ]  user is able to  click on xpath //a[contains(.,'Cart')] 
+2024-07-17 22:37:19,398 [INFO ]  user is able to  click on xpath //button[normalize-space()='Place Order'] 
+2024-07-17 22:37:20,727 [INFO ]  user is able to enter text.txt in xpath //input[@id='name'] 
+2024-07-17 22:37:21,466 [INFO ]  user is able to enter text.txt in xpath //input[@id='country'] 
+2024-07-17 22:37:22,182 [INFO ]  user is able to enter text.txt in xpath //input[@id='city'] 
+2024-07-17 22:37:22,930 [INFO ]  user is able to enter text.txt in xpath //input[@id='card'] 
+2024-07-17 22:37:23,696 [INFO ]  user is able to enter text.txt in xpath //input[@id='month'] 
+2024-07-17 22:37:24,413 [INFO ]  user is able to enter text.txt in xpath //input[@id='year'] 
+2024-07-17 22:37:25,057 [INFO ]  user is able to  click on xpath //button[normalize-space()='Purchase'] 
+2024-07-17 22:37:25,609 [INFO ]  user ia able to see the element on DOM with xpath //h2[contains(.,'Thank you for your purchase')]
+2024-07-17 22:37:36,884 [INFO ]  user ia able to see the element on DOM with xpath //a[contains(.,'Log in')]
+2024-07-17 22:37:37,479 [INFO ]  user is able to  click on xpath //a[contains(.,'Log in')] 
+2024-07-17 22:37:38,704 [INFO ]  user is able to enter text.txt in xpath //input[@id='loginusername'] 
+2024-07-17 22:37:39,419 [INFO ]  user is able to enter text.txt in xpath //input[@id='loginpassword'] 
+2024-07-17 22:37:40,035 [INFO ]  user is able to  click on xpath //button[normalize-space()='Log in'] 
+2024-07-17 22:38:01,092 [INFO ]  user ia able to see the element on DOM with xpath //a[contains(.,'test_userxru')]
+2024-07-17 22:38:01,651 [INFO ]  user ia able to see the element on DOM with xpath //a[contains(.,'Log out')]
+2024-07-17 22:38:02,960 [INFO ]  user is able to  click on xpath //a[contains(.,'Log out')] 
+2024-07-17 22:38:03,516 [INFO ]  user ia able to see the element on DOM with xpath //a[@id='login2']

@@ -1,0 +1,22 @@
+[32mINFO    [0m root:wrapperFunction.py:97 user ia able to see the element on DOM with xpath //a[contains(.,'Home')]
+[32mINFO    [0m root:wrapperFunction.py:21 user is able to  click on xpath //a[contains(.,'Home')] 
+[32mINFO    [0m root:wrapperFunction.py:118 user is able to move to element having xpath //p[contains(.,'Copyright © Product Store 2017')]
+[32mINFO    [0m root:wrapperFunction.py:21 user is able to  click on xpath //button[@id='next2'] 
+[32mINFO    [0m root:wrapperFunction.py:38 user is able to get text.txt from xpath //div[@id='tbodyid']/div[last()]/div/div/h4/a
+[32mINFO    [0m root:wrapperFunction.py:21 user is able to  click on xpath //div[@id='tbodyid']/div[last()]/div/div/h4/a 
+[32mINFO    [0m root:wrapperFunction.py:21 user is able to  click on xpath //a[normalize-space()='Add to cart'] 
+[32mINFO    [0m root:wrapperFunction.py:47 user is able to get text.txt Product added. from alert
+[32mINFO    [0m root:wrapperFunction.py:73 User is able to accept alert popup
+[32mINFO    [0m root:wrapperFunction.py:97 user ia able to see the element on DOM with xpath //a[contains(.,'Cart')]
+[32mINFO    [0m root:wrapperFunction.py:21 user is able to  click on xpath //a[contains(.,'Cart')] 
+[32mINFO    [0m root:wrapperFunction.py:97 user ia able to see the element on DOM with xpath //tbody[@id='tbodyid']/tr/td[contains(.,'MacBook Pro')]
+[32mINFO    [0m root:wrapperFunction.py:21 user is able to  click on xpath //button[normalize-space()='Place Order'] 
+[32mINFO    [0m root:wrapperFunction.py:31 user is able to enter text.txt in xpath //input[@id='name'] 
+[32mINFO    [0m root:wrapperFunction.py:31 user is able to enter text.txt in xpath //input[@id='country'] 
+[32mINFO    [0m root:wrapperFunction.py:31 user is able to enter text.txt in xpath //input[@id='city'] 
+[32mINFO    [0m root:wrapperFunction.py:31 user is able to enter text.txt in xpath //input[@id='card'] 
+[32mINFO    [0m root:wrapperFunction.py:31 user is able to enter text.txt in xpath //input[@id='month'] 
+[32mINFO    [0m root:wrapperFunction.py:31 user is able to enter text.txt in xpath //input[@id='year'] 
+[32mINFO    [0m root:wrapperFunction.py:21 user is able to  click on xpath //button[normalize-space()='Purchase'] 
+[32mINFO    [0m root:wrapperFunction.py:97 user ia able to see the element on DOM with xpath //h2[contains(.,'Thank you for your purchase')]
+[32mINFO    [0m root:wrapperFunction.py:21 user is able to  click on xpath //button[normalize-space()='OK']

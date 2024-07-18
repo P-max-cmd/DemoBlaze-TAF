@@ -1,0 +1,6 @@
+[32mINFO    [0m root:wrapperFunction.py:97 user ia able to see the element on DOM with xpath //a[contains(.,'Log in')]
+[32mINFO    [0m root:wrapperFunction.py:21 user is able to  click on xpath //a[contains(.,'Log in')] 
+[32mINFO    [0m root:wrapperFunction.py:31 user is able to enter text.txt in xpath //input[@id='loginusername'] 
+[32mINFO    [0m root:wrapperFunction.py:31 user is able to enter text.txt in xpath //input[@id='loginpassword'] 
+[32mINFO    [0m root:wrapperFunction.py:21 user is able to  click on xpath //button[normalize-space()='Log in'] 
+[32mINFO    [0m root:wrapperFunction.py:97 user ia able to see the element on DOM with xpath //a[contains(.,'test_usergQj')]

@@ -1,0 +1,9 @@
+[32mINFO    [0m root:wrapperFunction.py:97 user ia able to see the element on DOM with xpath //a[contains(.,'Log in')]
+[32mINFO    [0m root:wrapperFunction.py:21 user is able to  click on xpath //a[contains(.,'Log in')] 
+[32mINFO    [0m root:wrapperFunction.py:31 user is able to enter text.txt in xpath //input[@id='loginusername'] 
+[32mINFO    [0m root:wrapperFunction.py:31 user is able to enter text.txt in xpath //input[@id='loginpassword'] 
+[32mINFO    [0m root:wrapperFunction.py:21 user is able to  click on xpath //button[normalize-space()='Log in'] 
+[32mINFO    [0m root:wrapperFunction.py:47 user is able to get text.txt Wrong password. from alert
+[32mINFO    [0m root:wrapperFunction.py:65 user is abe to verify text.txt Wrong password. form alert
+[32mINFO    [0m root:wrapperFunction.py:73 User is able to accept alert popup
+[32mINFO    [0m root:wrapperFunction.py:21 user is able to  click on xpath //div[@id='logInModal']//button[@type='button'][normalize-space()='Close']
